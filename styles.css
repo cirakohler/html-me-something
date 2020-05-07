@@ -1,0 +1,23 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
+p, ul {
+    background-color:rgb(255, 179, 179);
+    padding: 20px;
+    text-indent: 20px;}
+
+body {
+    background-color:rgb(255, 230, 230);}
+img.align-center {
+     display: block;
+     margin: 0px auto;}
+img.medium {
+    width: 401px;
+    height: 475px;}
+body {
+    padding: 80px;
+    color:rgb(255, 255, 255);}
+h1,h2 {
+    color: rgb(255, 128, 128);
+    font-size: 20px;
+    text-align: center;}
+
